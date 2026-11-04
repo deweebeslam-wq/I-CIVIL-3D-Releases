@@ -6,7 +6,9 @@
 ![Platform](https://img.shields.io/badge/Windows-x64-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 **Importers, pipe network tools, Navisworks link, BIM and sheet export and a Smart Filter in one Civil 3D ribbon tab** —
-built by [I-BIMS](https://github.com/deweebeslam-wq), the makers of [I-TOOLS for Revit](https://github.com/deweebeslam-wq/I-TOOLS-Releases) and [I-TOOLS for Navisworks](https://github.com/deweebeslam-wq/I-TOOLS-NAVIS-Releases).
+built by **Mohamed Zeaiter**.
+
+See also: [I-TOOLS for Revit](https://github.com/deweebeslam-wq/I-TOOLS-Releases) · [I-TOOLS for Navisworks](https://github.com/deweebeslam-wq/I-TOOLS-NAVIS-Releases).
 
 This repository hosts the **installers** and the `update.json` files that i-CIVIL's built-in
 updater reads. The source code is private.
